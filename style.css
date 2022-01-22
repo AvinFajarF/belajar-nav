@@ -28,3 +28,10 @@ nav{
     margin-left: 1000px;
     width: 50px;
 }
+
+.gambar img{
+    background-size: cover;
+    width: 600px;
+    text-align: center;
+    border-radius: 10px;
+}
