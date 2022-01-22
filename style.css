@@ -8,8 +8,11 @@
 nav{
     display: flex;
     color: #fff;
-    border-bottom: 3px solid #E7E6E1;
+    border-bottom: 3px solid blue;
+    background-color: black;
+ 
 }
+
 
 .nav-item{
     position: relative;
