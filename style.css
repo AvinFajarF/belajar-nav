@@ -36,3 +36,10 @@ nav{
     text-align: center;
     border-radius: 10px;
 }
+
+
+button{
+    background-color: cyan;
+    border-radius: 10px;
+    width: 200px;
+}
