@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+nav{
+    display: flex;
+    color: #fff;
+    border-bottom: 3px solid #E7E6E1;
+}
+
+.nav-item{
+    position: relative;
+}
+
+.nav-link{
+    display: block;
+    padding: 20px 15px;
+    margin: 0;
+    color: #314E52;
+    text-decoration: none;
+}
+
+
+#logo{
+    margin-left: 1000px;
+    width: 50px;
+}
